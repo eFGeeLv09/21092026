@@ -1,1 +1,4 @@
-SSSS
+Nama saya: Fairuz Gatan Septariansyah
+1. Sekarang create directori
+2. commit pertama
+3. push pertama
